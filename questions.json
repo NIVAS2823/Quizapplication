@@ -13,5 +13,276 @@
         "question": "What is the largest ocean on Earth?",
         "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
         "answer": "Pacific Ocean"
+    },
+    {
+        "question": "Who is the founder of SpaceX?",
+        "options": ["Jeff Bezos", "Bill Gates", "Elon Musk", "Richard Branson"],
+        "answer": "Elon Musk"
+    },
+    {
+        "question": "What is the process by which plants make their food using sunlight?",
+        "options": ["Respiration", "Photosynthesis", "Digestion", "Transpiration"],
+        "answer": "Photosynthesis"
+    },
+    {
+        "question": "Which programming language is known for its use in web development and scripting?",
+        "options": ["Python", "Java", "C++", "JavaScript"],
+        "answer": "JavaScript"
+    },
+    {
+        "question": "What is the speed of light in a vacuum?",
+        "options": ["300,000 km/s", "150,000 km/s", "1,000 km/s", "3,000 km/s"],
+        "answer": "300,000 km/s"
+    },
+    {
+        "question": "In which year did the United Nations form?",
+        "options": ["1945", "1950", "1919", "1939"],
+        "answer": "1945"
+    },
+    {
+        "question": "Which company is known for the Android operating system?",
+        "options": ["Apple", "Google", "Microsoft", "Samsung"],
+        "answer": "Google"
+    },
+    {
+        "question": "What element does 'O' represent on the periodic table?",
+        "options": ["Oxygen", "Osmium", "Oganesson", "Oxide"],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "Which country recently landed a spacecraft on the moon's South Pole?",
+        "options": ["Russia", "USA", "India", "China"],
+        "answer": "India"
+    },
+    {
+        "question": "Which country won the FIFA World Cup in 2022?",
+        "options": ["France", "Argentina", "Germany", "Brazil"],
+        "answer": "Argentina"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What does HTTP stand for in the context of web browsing?",
+        "options": ["HyperText Transfer Protocol", "HyperText Translate Program", "Hyper Transmission Protocol", "Host Transfer Text Program"],
+        "answer": "HyperText Transfer Protocol"
+    },
+    {
+        "question": "Who won the Nobel Prize in Physics in 2020?",
+        "options": ["Roger Penrose", "Albert Einstein", "Marie Curie", "Stephen Hawking"],
+        "answer": "Roger Penrose"
+    },
+    {
+        "question": "Which social media platform was acquired by Elon Musk in 2022?",
+        "options": ["Facebook", "Instagram", "Twitter", "Snapchat"],
+        "answer": "Twitter"
+    },
+    {
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "Which device is used to measure atmospheric pressure?",
+        "options": ["Barometer", "Thermometer", "Anemometer", "Hygrometer"],
+        "answer": "Barometer"
+    },
+    {
+        "question": "Who is known as the father of modern computing?",
+        "options": ["Alan Turing", "Charles Babbage", "John von Neumann", "Tim Berners-Lee"],
+        "answer": "Alan Turing"
+    },
+    {
+        "question": "What year did the first iPhone release?",
+        "options": ["2005", "2007", "2009", "2010"],
+        "answer": "2007"
+    },
+    {
+        "question": "Which technology is used to secure cryptocurrency transactions?",
+        "options": ["Blockchain", "Encryption", "Quantum Computing", "AI"],
+        "answer": "Blockchain"
+    },
+    {
+        "question": "What was the first human-made satellite to orbit the Earth?",
+        "options": ["Sputnik 1", "Apollo 11", "Voyager 1", "Hubble"],
+        "answer": "Sputnik 1"
+    },
+    {
+        "question": "Which country is leading in semiconductor production globally?",
+        "options": ["USA", "China", "South Korea", "Taiwan"],
+        "answer": "Taiwan"
+    },
+    {
+        "question": "What is the name of NASA's most powerful space telescope launched in 2021?",
+        "options": ["Hubble", "James Webb", "Kepler", "Voyager"],
+        "answer": "James Webb"
+    },
+    {
+        "question": "What does AI stand for in technology?",
+        "options": ["Automated Intelligence", "Artificial Intelligence", "Actual Intelligence", "Advanced Interface"],
+        "answer": "Artificial Intelligence"
+    },
+    {
+        "question": "Who is the current CEO of Google?",
+        "options": ["Sundar Pichai", "Satya Nadella", "Tim Cook", "Larry Page"],
+        "answer": "Sundar Pichai"
+    },
+    {
+        "question": "What does DNA stand for?",
+        "options": ["Deoxyribonucleic Acid", "Dicarboxylic Nucleotide Acid", "Deoxyribonuclear Amino", "Dinucleotide Acid"],
+        "answer": "Deoxyribonucleic Acid"
+    },
+
+    {
+        "question": "Which programming language is primarily used for Android app development?",
+        "options": ["Python", "Java", "C++", "JavaScript"],
+        "answer": "Java"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": ["Hypertext Markup Language", "Hyperlink and Text Markup Language", "Home Tool Markup Language", "Hyperlink Transfer Language"],
+        "answer": "Hypertext Markup Language"
+    },
+    {
+        "question": "Which of the following is a Python framework used for web development?",
+        "options": ["React", "Django", "Laravel", "Spring"],
+        "answer": "Django"
+    },
+    {
+        "question": "In JavaScript, which symbol is used for single-line comments?",
+        "options": ["#", "//", "<!--", "/*"],
+        "answer": "//"
+    },
+    {
+        "question": "Which of the following is NOT a primitive data type in Java?",
+        "options": ["int", "float", "string", "boolean"],
+        "answer": "string"
+    },
+    {
+        "question": "In SQL, which command is used to retrieve data from a database?",
+        "options": ["GET", "SELECT", "FETCH", "QUERY"],
+        "answer": "SELECT"
+    },
+    {
+        "question": "What does CSS stand for?",
+        "options": ["Cascading Style Sheets", "Computer Style Sheets", "Colorful Style Sheets", "Creative Style Sheets"],
+        "answer": "Cascading Style Sheets"
+    },
+    {
+        "question": "Which company developed the programming language Swift?",
+        "options": ["Google", "Microsoft", "Apple", "IBM"],
+        "answer": "Apple"
+    },
+    {
+        "question": "In Git, which command is used to stage changes?",
+        "options": ["git commit", "git add", "git status", "git push"],
+        "answer": "git add"
+    },
+    {
+        "question": "What is the file extension for a Python file?",
+        "options": [".java", ".py", ".cpp", ".txt"],
+        "answer": ".py"
+    },
+    {
+        "question": "Which keyword is used to define a function in JavaScript?",
+        "options": ["def", "function", "func", "define"],
+        "answer": "function"
+    },
+    {
+        "question": "In Object-Oriented Programming, which concept allows the use of functions with the same name but different parameters?",
+        "options": ["Inheritance", "Polymorphism", "Encapsulation", "Abstraction"],
+        "answer": "Polymorphism"
+    },
+    {
+        "question": "Which HTML tag is used to display a clickable hyperlink?",
+        "options": ["<a>", "<link>", "<href>", "<url>"],
+        "answer": "<a>"
+    },
+    {
+        "question": "Which function is used to output data to the console in JavaScript?",
+        "options": ["print()", "echo()", "console.log()", "write()"],
+        "answer": "console.log()"
+    },
+    {
+        "question": "In Java, which keyword is used to inherit a class?",
+        "options": ["implements", "inherits", "extends", "super"],
+        "answer": "extends"
+    },
+    {
+        "question": "Which of these languages is used for styling web pages?",
+        "options": ["HTML", "CSS", "Python", "SQL"],
+        "answer": "CSS"
+    },
+    {
+        "question": "What is the correct syntax for a 'for' loop in Python?",
+        "options": ["for i in range(5):", "for(i=0; i<5; i++)", "for i=0; i<5; i++", "loop i in range(5)"],
+        "answer": "for i in range(5):"
+    },
+    {
+        "question": "Which of the following is a frontend JavaScript framework?",
+        "options": ["Django", "Spring", "Vue.js", "Flask"],
+        "answer": "Vue.js"
+    },
+    {
+        "question": "In SQL, which command is used to delete a table?",
+        "options": ["DROP TABLE", "DELETE TABLE", "REMOVE TABLE", "CLEAR TABLE"],
+        "answer": "DROP TABLE"
+    },
+    {
+        "question": "Which CSS property is used to change the background color of an element?",
+        "options": ["color", "background-color", "bgcolor", "bg-color"],
+        "answer": "background-color"
+    },
+    {
+        "question": "In C++, which operator is used to access the address of a variable?",
+        "options": ["*", "&", "%", "$"],
+        "answer": "&"
+    },
+    {
+        "question": "Which of the following is a JavaScript library for DOM manipulation?",
+        "options": ["React", "jQuery", "Django", "Laravel"],
+        "answer": "jQuery"
+    },
+    {
+        "question": "In Python, which keyword is used to handle exceptions?",
+        "options": ["try", "except", "catch", "throw"],
+        "answer": "except"
+    },
+    {
+        "question": "What does SQL stand for?",
+        "options": ["Structured Query Language", "Simple Query Language", "System Query Language", "Standard Query Language"],
+        "answer": "Structured Query Language"
+    },
+    {
+        "question": "Which of these languages is primarily used for data analysis?",
+        "options": ["JavaScript", "Python", "HTML", "C#"],
+        "answer": "Python"
+    },
+    {
+        "question": "In HTML, which tag is used to insert an image?",
+        "options": ["<image>", "<img>", "<pic>", "<photo>"],
+        "answer": "<img>"
+    },
+    {
+        "question": "Which method is used to remove the last element from an array in JavaScript?",
+        "options": ["pop()", "remove()", "shift()", "splice()"],
+        "answer": "pop()"
+    },
+    {
+        "question": "What is the default port number for HTTP?",
+        "options": ["443", "80", "8080", "21"],
+        "answer": "80"
+    },
+    {
+        "question": "Which function is used to find the length of a string in Python?",
+        "options": ["length()", "strlen()", "count()", "len()"],
+        "answer": "len()"
+    },
+    {
+        "question": "In CSS, which property is used to set the font size?",
+        "options": ["font", "text-size", "font-size", "size"],
+        "answer": "font-size"
     }
 ]
