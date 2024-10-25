@@ -4,6 +4,11 @@ body {
     color: #333;
     margin: 0;
     padding: 20px;
+    background-image: url("architecture-3734552_1280.jpg");
+    background-positon:center;
+    background-size: cover;
+    
+    
 }
 
 #quiz-container {
